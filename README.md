@@ -34,7 +34,7 @@ Repeat Movement and LED Changes:<br/>
 After all movements and LED changes are completed, stop the video streaming.
 <br/>
 
-Step5:
+### Step5:
 
 Properly close the connection to the robot to ensure all resources are released.
 <br/>
