@@ -136,7 +136,8 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+![image](https://github.com/Ravi-1105/mobilerobot-openloopcontrol/assets/139841688/5fd12181-5dba-4c98-8996-c5a87786e164)
+
 
 
 <br/>
